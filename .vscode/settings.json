@@ -1,0 +1,10 @@
+{
+  "eslint.validate": ["javascript", "svelte"],
+  "path-intellisense.mappings": {
+    "@components": "${workspaceRoot}/src/components",
+    "@models": "${workspaceRoot}/src/models",
+    "@stores": "${workspaceRoot}/src/stores",
+    "@utils": "${workspaceRoot}/src/utils",
+    "@views": "${workspaceRoot}/src/views"
+  }
+}

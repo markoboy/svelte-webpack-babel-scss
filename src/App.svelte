@@ -9,7 +9,7 @@
   $: logger.log(name);
 </script>
 
-<style src="./App.scss" global>
+<style src="./app.scss" global>
 
 </style>
 
