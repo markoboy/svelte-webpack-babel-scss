@@ -1,0 +1,29 @@
+@import 'essential';
+
+$colour--primary: #ff3e00;
+
+main {
+  color: $colour--black;
+  font-family: 'Open Sans', sans-serif;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+h1 {
+  color: $colour--primary;
+  text-align: center;
+}
+
+img {
+  max-height: 200px;
+}
+
+.links,
+.example {
+  max-width: 550px;
+  margin: 0 auto;
+}
+
+ul {
+  padding-left: 18px;
+}

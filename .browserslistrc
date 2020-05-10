@@ -1,0 +1,6 @@
+# Browsers that we support
+> 0.5%
+last 2 major versions
+safari >= 9
+ie >= 11
+not dead
