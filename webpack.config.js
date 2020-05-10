@@ -72,7 +72,7 @@ module.exports = {
   plugins: [
     new CleanWebpackPlugin(),
     new HtmlWebpackPlugin({
-      title: 'Poke Svelte League',
+      title: 'Svelte - Webpack - Babel - SCSS',
       template: 'src/index.html',
     }),
     new MiniCssExtractPlugin({
