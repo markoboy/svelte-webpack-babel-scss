@@ -18,6 +18,10 @@ _Note that you will need to have [Node.js](https://nodejs.org) installed._
   - [With now](#with-now)
   - [With surge](#with-surge)
 - [Folder structure](#folder-structure)
+- [Available npm scripts](#available-npm-scripts)
+- [Depedencies used](#depedencies-used)
+- [VSCode extensions](#vscode-extensions)
+- [Todo](#todo)
 
 ## Get started
 
@@ -33,10 +37,12 @@ npm install
 ...then start webpack:
 
 ```bash
-npm run dev
+npm start
 ```
 
 Navigate to [localhost:8080](http://localhost:8080). You should see your app running. Edit a component file in `src`, save it, and the page should reload with your changes.
+
+![Application running][public/app.jpg]
 
 ## Deploying to the web
 

@@ -28,7 +28,11 @@
 
     <ul>
       <li>
-        <a target="_blank" href="/#">Check this template on GitHub</a>
+        <a
+          target="_blank"
+          href="https://github.com/markoboy/svelte-webpack-babel-scss">
+          Check this template on GitHub
+        </a>
       </li>
       <li>
         <a target="_blank" href="https://svelte.dev/">Svelte main page</a>
